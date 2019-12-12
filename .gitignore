@@ -1,9 +1,5 @@
-# project
 _site
+Gemfile.lock
 .sass-cache
-.vagrant
-
-# general
+.jekyll-metadata
 .DS_Store
-Thumbs.db
-ehthumbs.db
